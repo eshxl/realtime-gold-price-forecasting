@@ -17,6 +17,9 @@ The dashboard displays:
 
 Designed for big data coursework, it showcases real-time ingestion, time series forecasting, and interactive analytics—all in your browser.
 
+![Dashboard Screenshot](streamlit_dashboard1.png)
+![Dashboard Screenshot](streamlit_dashboard2.png)
+
 ---
 
 ## 🛠️ Tech Stack

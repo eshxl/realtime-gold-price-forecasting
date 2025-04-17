@@ -1,0 +1,15 @@
+
+---
+
+### 🧾 `requirements.txt` (place in your project root)
+
+```txt
+yfinance
+keras
+plotly
+statsmodels
+streamlit
+python-dotenv
+pyngrok
+pandas==2.2.2
+numpy

@@ -53,5 +53,5 @@ Designed for big data coursework, it showcases real-time ingestion, time series 
 
 ### 🔁 Clone the Repo
 ```bash
-git clone https://github.com/yourusername/realtime-gold-price-forecasting.git
+git clone https://github.com/eshxl/realtime-gold-price-forecasting.git
 cd realtime-gold-price-forecasting
